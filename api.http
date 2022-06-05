@@ -1,0 +1,9 @@
+GET http://localhost:3333/
+
+###
+GET http://localhost:3333/login
+Authorization: Basic filipe@exmaple.com:123456
+
+###
+GET http://localhost:3333/private
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoie1wibmFtZVwiOlwiRmlsaXBlIFNvdXNhXCIsXCJlbWFpbFwiOlwiZmlsaXBlQGV4bWFwbGUuY29tXCJ9IiwiaWF0IjoxNjUyNzM0NDgxLCJleHAiOjE2NTI3MzgwODF9.xHGgHoYNJasYqn4_9scI1zhRlBzlLh76xtE7j7eFN4E
