@@ -1,6 +1,6 @@
 #  NodeJS: Autenticação com JWT
 Esse projeto foi criado para demonstrar o fluxo de uma aplicação que usa o JWT para autenticação e autorização em uma API NodeJS.
-Ele é usado como demonstração no artigo escrito por mim [NodeJS: Autenticação com JWT]([https://medium.com/p/6e274fb205dc/edit](https://medium.com/@filipefilpe/nodejs-autentica%C3%A7%C3%A3o-com-jwt-6e274fb205dc)
+Ele é usado como demonstração no artigo escrito por mim [NodeJS: Autenticação com JWT]([https://medium.com/p/6e274fb205dc/edit](https://medium.com/@filipefilpe/nodejs-autentica%C3%A7%C3%A3o-com-jwt-6e274fb205dc))
 ___
 ## Estrutura do projeto
 - :open_file_folder: src
